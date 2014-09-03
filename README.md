@@ -1,4 +1,4 @@
-Music player
+Skylark
 ============
 
 First, if you wonder about what is supposed to be a music player or what makes a music player different from a simple media player, read this: [What is a music player](https://github.com/albertz/music-player/blob/master/WhatIsAMusicPlayer.md)
