@@ -26,3 +26,6 @@ Makefile
 Makefile.*
 .qmake.stash
 .qmake.cache
+
+# images
+gfx
